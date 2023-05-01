@@ -1,6 +1,6 @@
 export const config = {
     runtime: "edge",
-    regions: ["waw",],
+    regions: ["fra1",],
 };
 
 export { default } from "./turso-global";
